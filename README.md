@@ -3,6 +3,7 @@
 Code and checkpoints to reproduce the results of
 
 > *Amortized Set Prediction for Inverse IFS Reconstruction from Density Maps*
+> ([arXiv:2608.24175](https://arxiv.org/abs/2608.24175))
 
 A feed-forward estimator predicts the affine-map set of an Iterated Function
 System (IFS) from a visit-frequency density map in a single forward pass,
@@ -251,9 +252,12 @@ MIT (see `LICENSE`). The third-party LearningFractals code fetched into
 
 ```bibtex
 @misc{yamaguti2026amortized,
-  title  = {Amortized Set Prediction for Inverse {IFS} Reconstruction from Density Maps},
-  author = {Yamaguti, Yutaka},
-  year   = {2026},
-  note   = {arXiv preprint. TODO: fill in arXiv identifier.}
+  title         = {Amortized Set Prediction for Inverse {IFS} Reconstruction from Density Maps},
+  author        = {Yamaguti, Yutaka},
+  year          = {2026},
+  eprint        = {2608.24175},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV},
+  doi           = {10.48550/arXiv.2608.24175}
 }
 ```
