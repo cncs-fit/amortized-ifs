@@ -12,7 +12,7 @@ from pathlib import Path
 
 
 ROOT = Path(__file__).resolve().parents[1]
-PYTHON = "/home/yyama/anaconda3/envs/dlifs/bin/python"
+PYTHON = sys.executable  # the interpreter running this driver (the main env)
 
 TARGET_SPECS = {
     "mnist": ("mnist_images", "generate_mnist.py"),
