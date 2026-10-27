@@ -13,10 +13,10 @@ one-shot prediction.
 
 **Versions.** `v1.0` reproduces the originally submitted version
 (arXiv:2608.24175v1). `v2.0` adds the code, configurations, and checkpoints for
-the experiments of the revised manuscript (`scripts/rev1/`, `configs/rev1/`,
-`checkpoints/rev1/`); the core library is unchanged, so every v1.0 result is
-reproduced as before. Table, figure, and section numbers below refer to the revised
-manuscript.
+the experiments of the revised manuscript (arXiv:2608.24175v2; `scripts/rev1/`,
+`configs/rev1/`, `checkpoints/rev1/`); the core library is unchanged, so every
+v1.0 result is reproduced as before. Table, figure, and section numbers below
+refer to the revised manuscript.
 
 ## Layout
 
